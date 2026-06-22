@@ -224,5 +224,4 @@ public_tests.py
 utils.py
 
 # Ignore local Jupyter backup folders
-.ipynb_checkpoints/
-
+.ipynb_checkpoints/Decision_Trees-checkpoint.ipynb
