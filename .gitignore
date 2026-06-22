@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore internal course validation scripts
+public_tests.py
+
+# Ignore developer asset scripts
+utils.py
+
+# Ignore local Jupyter backup folders
+.ipynb_checkpoints/
+
